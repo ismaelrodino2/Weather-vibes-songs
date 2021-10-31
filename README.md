@@ -5,4 +5,4 @@
 5 - yarn start;
 
 Using the app: Type some city in the input field, click in search and you get a list of songs to enjoy the weather! Obs: the background changes according to the weather.
-You can algo save it in local storage clicking in the button. To visualize, go to "visualizar". To clean local storage, click in "limpar storage".
+You can also save it in local storage clicking in the button. To visualize, go to "visualizar". To clean local storage, click in "limpar storage".
